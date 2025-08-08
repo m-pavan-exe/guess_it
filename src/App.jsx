@@ -60,7 +60,7 @@ const App = () => {
           Guess It! 🎯
         </h1>
         <p style={{ fontSize: '20px', marginBottom: '40px', lineHeight: '1.6' }}>
-          Master English-Hindi vocabulary with interactive flashcards and spaced repetition
+          Master English-Hindi-Telugu vocabulary with interactive flashcards and spaced repetition
         </p>
         
         <div style={{ 
@@ -122,7 +122,7 @@ const App = () => {
             textAlign: 'left'
           }}>
             <div>• Spaced repetition learning</div>
-            <div>• English-Hindi flashcards</div>
+            <div>• English-Hindi-Telugu flashcards</div>
             <div>• Progress tracking</div>
             <div>• Interactive quizzes</div>
             <div>• Pronunciation guides</div>

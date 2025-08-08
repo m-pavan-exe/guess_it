@@ -83,7 +83,7 @@ const Quiz = ({ flashcards, onQuizComplete }) => {
       </div>
       
       <div className="quiz-question">
-        What is the Hindi translation of:
+        What is the Hindi/Telugu translation of:
         <div style={{ fontSize: '32px', fontWeight: 'bold', color: '#667eea', margin: '20px 0' }}>
           {currentCard.front.word}
         </div>

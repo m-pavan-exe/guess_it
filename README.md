@@ -2,6 +2,8 @@
 
 A web-based application designed to help language learners build their vocabulary through interactive flashcards, quizzes, and a spaced repetition system. This app leverages proven memory retention techniques to make language learning more efficient and enjoyable.
 
+Now featuring **50+ vocabulary words** with **English, Hindi, and Telugu** translations!
+
 ## Features
 
 * **Flashcards:** Create, edit, and review flashcards for your target language
@@ -15,7 +17,9 @@ This app stands out by integrating spaced repetition, a scientifically proven me
 
 ## Tech Stack
 
-* **JavaScript:** Powers the interactive elements of the app, providing a dynamic and responsive user experience
+* **JavaScript & React:** Powers the interactive elements of the app, providing a dynamic and responsive user experience
+* **Vite:** Fast development server and build tool
+* **Tailwind CSS:** Modern styling framework
 * **Vercel:** Hosts the application, offering seamless deployment and scalability
 
 These technologies were chosen for their ability to create a fast, interactive, and easily accessible web application.
